@@ -1,0 +1,23 @@
+img {
+  height: 300px;
+  width: auto;
+}
+
+h1.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h3.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h4.flashy {
+  color: red;
+  font-style: italic;
+}
+
+ul {
+  color: purple;
+}
